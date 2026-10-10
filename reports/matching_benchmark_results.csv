@@ -1,0 +1,5 @@
+Method,Top-1 Accuracy (%),Avg Latency (ms),Robust to Typos,Robust to Inverted Names
+1. Exact String Matching,37.0,0.03,No,No
+2. Levenshtein Distance,48.0,118.83,Moderate,No
+3. TF-IDF 3-Gram Cosine,50.0,0.94,High,Yes
+4. Hybrid ML Matcher (Ours),99.0,43.24,Very High,Yes

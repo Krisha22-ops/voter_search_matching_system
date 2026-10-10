@@ -1,0 +1,4 @@
+Voter_ID_1,Name_1,DOB_1,Address_1,Voter_ID_2,Name_2,DOB_2,Address_2,Match_Probability
+VTR-001330,Susan Williams,1950-01-14,2230 Highland Dr,VTR-001759,Anthony Williams,1950-01-14,289 Sunset Blvd,0.7257
+VTR-001029,Matthew Taylor,1966-11-23,3047 Pine St,VTR-001117,Sandra Taylor,1966-11-23,4942 Highland Dr,0.7483
+VTR-001333,Sarah Thompson,2004-08-24,6930 River Rd,VTR-001956,Ashley Thompson,2004-08-24,1754 Maple Rd,0.7256
